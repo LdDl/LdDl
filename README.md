@@ -4,7 +4,7 @@
 ## Developer in computer vision / telemetry (GPS) fields
 
 - 💼 I’m currently working on a [Horizon][horizon] - map matching library for GPS tracks
-- 🥅 My current goals: improve hobby projects quality and contribute to open source, learn Rust programming languages
+- 🥅 My current goals: improve hobby projects quality and contribute to open source, learn Rust programming language
 - 📖 Interests: applied mathematics, neural networks, graph theory
 
 ### Connect with me:
