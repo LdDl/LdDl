@@ -39,7 +39,7 @@
 [graphql]: https://graphql.org
 [github]: https://github.com
 [git]: https://git-scm.com
-[golang]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png
+[golang]: https://www.youtube.com/watch?v=n6d4KHSKqGk
 [gorgonia]: https://gorgonia.org
 [postgresql]: https://www.postgresql.org
 [rust]: https://www.rust-lang.org
