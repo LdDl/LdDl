@@ -33,7 +33,7 @@
 
 [telegram]: https://t.me/sexyk
 [twitter]: https://twitter.com/GreatAkcium
-[linkedin]: www.linkedin.com/in/sexykdi
+[linkedin]: https://www.linkedin.com/in/sexykdi
 [horizon]: https://github.com/LdDl/horizon#horizon-v030-----
 [vscode]: https://code.visualstudio.com
 [graphql]: https://graphql.org
