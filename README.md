@@ -31,12 +31,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="LdDl's Github Stats" src="https://github-readme-stats.lddl.vercel.app/api?username=LdDl&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="LdDl's Github Stats" src="https://github-readme-stats.lddl.vercel.app/api?username=LdDl&show_icons=true&hide_border=true" />
 
 [telegram]: https://t.me/sexyk
 [twitter]: https://twitter.com/GreatAkcium
