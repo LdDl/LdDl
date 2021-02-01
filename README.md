@@ -3,8 +3,8 @@
 
 ## Developer in computer vision / telemetry (GPS) fields
 
-- 💼 I’m currently working on a [Horizon][horizon] - map matching library for GPS tracks
-- 🥅 My current goals: improve hobby projects quality and contribute to open source, learn Rust programming language
+- 💼 I’m currently working on a [Horizon][horizon] - map matching library for GPS tracks; and [ODaM](https://github.com/LdDl/odam) - Object Detection and Monitoring via [GoCV](https://github.com/hybridgroup/gocv) and [go-darknet](https://github.com/LdDl/go-darknet)
+- 🥅 My current goals: improve hobby projects quality and contribute to open source, learn Rust programming language, implement GAN in Golang.
 - 📖 Interests: applied mathematics, neural networks, graph theory
 
 ### Connect with me:
