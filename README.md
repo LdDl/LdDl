@@ -3,7 +3,7 @@
 
 ## Developer in computer vision / telemetry (GPS) fields
 
-- 💼 I’m currently working on a [Horizon][horizon] - map matching library for GPS tracks; and [ODaM](https://github.com/LdDl/odam) - Object Detection and Monitoring via [GoCV](https://github.com/hybridgroup/gocv) and [go-darknet](https://github.com/LdDl/go-darknet)
+- 💼 I’m currently working on a [Horizon][horizon] - map matching library for GPS tracks; and [ODaM](https://github.com/LdDl/odam) - Object Detection and Monitoring via [GoCV](https://github.com/hybridgroup/gocv) and [go-darknet](https://github.com/LdDl/go-darknet); and Generative Adversarial Networks (GANs) in Golang - https://github.com/LdDl/gan-go
 - 🥅 My current goals: improve hobby projects quality and contribute to open source, implement GAN and other interesting neural networks architectures in [Golang](https://golang.org/), learn [Rust](https://www.rust-lang.org/) programming language (oh, [here](https://github.com/LdDl/rust-road-traffic#wip) is my toy project for road traffic monitoring in Rust).
 - 📖 Interests: applied mathematics, neural networks, graph theory
 
