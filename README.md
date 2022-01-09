@@ -29,6 +29,11 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
 <br />
 
+### Support:
+
+You can support me on [Patreon](https://www.patreon.com/lddl)
+<br />
+
 ---
 
 <img align="left" alt="LdDl's Github Stats" src="https://github-readme-stats.lddl.vercel.app/api?username=LdDl&show_icons=true&hide_border=true" />
