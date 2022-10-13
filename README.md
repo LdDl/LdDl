@@ -38,6 +38,8 @@ You can support me on [Patreon](https://www.patreon.com/lddl)
 
 <img align="left" alt="LdDl's Github Stats" src="https://github-readme-stats.lddl.vercel.app/api?username=LdDl&show_icons=true&hide_border=true" />
 
+[![@lddl's Holopin board](https://holopin.me/lddl)](https://holopin.io/@lddl)
+
 [telegram]: https://t.me/sexyk
 [twitter]: https://twitter.com/GreatAkcium
 [linkedin]: https://www.linkedin.com/in/sexykdi
