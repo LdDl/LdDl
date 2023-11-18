@@ -31,7 +31,7 @@
 
 ### Support:
 
-You can support me on [Patreon](https://www.patreon.com/lddl)
+You witness me, I'm happy.
 <br />
 
 ---
